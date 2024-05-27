@@ -10,8 +10,10 @@
 🕸️ Cyber security enthusiast 🕸️
 
 </div>
+
 - Intrusion Detection Systems (IDS) -
 - Security Information and Event Management (SIEM) -
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="50" />
