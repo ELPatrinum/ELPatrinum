@@ -7,7 +7,9 @@
 
 42-Network Login : muel-bak
 
-Cyber security enthusiast 🕸️
+🕸️ Cyber security enthusiast 🕸️
+- Intrusion Detection Systems (IDS) -
+- Security Information and Event Management (SIEM) -
 
 </div>
 <p align="center">
