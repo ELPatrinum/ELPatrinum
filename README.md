@@ -8,6 +8,8 @@
 42-Network Login : muel-bak
 
 Cyber security enthusiast 🕸️
+
+</div>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="50" />
@@ -16,5 +18,3 @@ Cyber security enthusiast 🕸️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" />
   
 </p>
-
-</div>
