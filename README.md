@@ -15,7 +15,7 @@
 
 - Intrusion Detection Systems (IDS)
 - Security Information and Event Management (SIEM)
-- Scripting and Automation :
+- Scripting and Automation
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="50" />
