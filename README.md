@@ -26,6 +26,7 @@ Wanna connect ?
 
 </div>
 
+- Reverse Engineering & Malware Analysis
 - Intrusion Detection Systems (IDS)
 - Security Information and Event Management (SIEM)
 - Scripting and Automation
