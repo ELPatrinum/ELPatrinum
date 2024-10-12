@@ -26,6 +26,7 @@ Wanna connect ?
 
 </div>
 
+- SOC analyst
 - Reverse Engineering & Malware Analysis
 - Security Software development 
 - Scripting and Automation
